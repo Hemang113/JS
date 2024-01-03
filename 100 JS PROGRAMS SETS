@@ -1,0 +1,151 @@
+
+Program using forEach() to display each element in an array.
+Program using map() to double each element in an array.
+Program using filter() to get only even numbers from an array.
+Program using reduce() to find the sum of elements in an array.
+Program using every() to check if all elements are positive.
+Program using some() to check if any element is negative.
+Program using find() to get the first prime number in an array.
+Program using indexOf() to find the index of a specific element.
+Program using lastIndexOf() to find the last occurrence of an element.
+Program using entries() to iterate over key/value pairs in an array.
+Program using keys() to iterate over keys in an array.
+Program using values() to iterate over values in an array.
+Program to remove duplicates from an array using filter().
+Program to flatten a nested array using reduce().
+Program to calculate the average of array elements using reduce().
+Program to reverse the order of elements in an array.
+Program to find the intersection of two arrays using filter().
+Program to shuffle an array using sort() and Math.random().
+Program to check if two arrays are equal using every().
+Program to rotate elements in an array to the left.
+
+
+
+
+
+-------------------------------------
+
+
+Certainly! Here are 100 practical JavaScript programs that involve sets, maps, and various uses of `for...in` and `for...of` loops:
+
+### Sets:
+
+1. Create a set and add elements to it.
+2. Remove duplicates from an array using a set.
+3. Check if two sets are equal.
+4. Find the union of two sets.
+5. Find the intersection of two sets.
+6. Find the difference between two sets.
+7. Check if a set is a subset of another set.
+8. Remove common elements from two sets.
+9. Convert an array to a set and vice versa.
+10. Iterate over a set using `for...of`.
+11. Implement set operations (union, intersection, difference) using functions.
+
+### Maps:
+
+12. Create a map and add key-value pairs to it.
+13. Check if a key exists in a map.
+14. Iterate over a map using `for...of`.
+15. Get the size of a map.
+16. Remove a key from a map.
+17. Convert a map to an array of key-value pairs.
+18. Check if two maps are equal.
+19. Merge two maps.
+20. Implement map operations (get, set, delete) using functions.
+
+### `for...in` and `for...of`:
+
+21. Iterate over the properties of an object using `for...in`.
+22. Iterate over the characters of a string using `for...of`.
+23. Use `for...in` to loop through the keys of an object.
+24. Use `for...of` to loop through the values of an array.
+25. Iterate over the values of a map using `for...of`.
+26. Use `for...in` to loop through the indices of an array.
+27. Iterate over the entries of a map using `for...of`.
+28. Use `for...in` to loop through the enumerable properties of an object.
+29. Iterate over the elements of a set using `for...of`.
+30. Use `for...in` to loop through the keys of an array.
+
+### Miscellaneous:
+
+31. Find the maximum element in an array using `for...of`.
+32. Count the occurrences of each element in an array using a map.
+33. Reverse the elements of an array using `for...in`.
+34. Check if a number is prime using a set.
+35. Flatten an array of arrays using `for...of`.
+36. Implement a simple cache using a map.
+37. Implement a stack using a set.
+38. Implement a queue using a set.
+39. Find the average of elements in an array.
+40. Swap the values of two variables using a set.
+
+### More Set Operations:
+
+41. Check if two sets are disjoint.
+42. Find the symmetric difference between two sets.
+43. Check if a set is a proper subset of another set.
+44. Clone a set.
+45. Find the complement of a set.
+46. Check if a set is empty.
+47. Implement set intersection using `for...of`.
+48. Implement set difference using `for...of`.
+49. Implement set union using `for...of`.
+50. Implement set complement using `for...of`.
+
+### More Map Operations:
+
+51. Check if a map is empty.
+52. Find the keys with the maximum and minimum values in a map.
+53. Implement map filter operation using `for...of`.
+54. Implement map transformation operation using `for...of`.
+55. Implement map reduction operation using `for...of`.
+56. Find the sum of values in a map.
+57. Check if all values in a map are unique.
+58. Implement map sorting based on values.
+59. Implement map sorting based on keys.
+60. Implement map inversion.
+
+### `for...in` and `for...of` with Objects:
+
+61. Iterate over the values of an object using `for...of`.
+62. Use `for...in` to loop through the properties of an object.
+63. Iterate over the entries of an object using `for...of`.
+64. Use `for...in` to loop through inherited properties.
+65. Iterate over an object's keys and values using `for...of`.
+66. Use `for...in` to loop through non-enumerable properties.
+67. Iterate over an object's prototype chain using `for...in`.
+68. Use `for...in` to loop through own properties only.
+69. Iterate over an object's symbols using `for...in`.
+70. Use `for...in` to loop through object properties in a specific order.
+
+### Advanced Set and Map Operations:
+
+71. Implement a set with custom equality comparison logic.
+72. Implement a map with custom key comparison logic.
+73. Check if two sets are equal, considering order.
+74. Implement a set with custom hash function.
+75. Check if two maps are equal, considering key order.
+76. Implement a map with custom sorting logic.
+77. Check if a set is a proper superset of another set.
+78. Implement set operations using bitwise operations.
+79. Implement a map with custom value comparison logic.
+80. Check if a map is a proper superset of another map.
+
+### Advanced `for...of` and `for...in`:
+
+81. Use `for...of` to iterate over the values of a generator.
+82. Use `for...in` to iterate over the keys of a generator.
+83. Iterate over the properties of an object recursively using `for...in`.
+84. Iterate over the values of a nested array using `for...of`.
+85. Use `for...in` to loop through both keys and values of an object.
+86. Iterate over the properties of an object and its prototype chain using `for...in`.
+87. Use `for...in` to loop through both enumerable and non-enumerable properties of an object.
+88. Iterate over the values of an array and its prototype chain using `for...of`.
+89. Use `for...in` to loop through both own and inherited properties of an object.
+90. Iterate over the values of a map and its prototype chain using `for...of`.
+
+
+
+These programs cover a wide range of scenarios and should provide a good foundation for working with sets, maps, and loop constructs in JavaScript. Feel free to modify and expand upon them based on your needs!
